@@ -1,2 +1,4 @@
-package com.nhatthanh.hocgit;public class User {
+package com.nhatthanh.hocgit;
+
+public class User {
 }
